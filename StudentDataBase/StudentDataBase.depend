@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666024744 source:d:\codeblocks\studentdatabase\studentdatabase\database module\simpledb.c
+	<stdio.h>
+	"SimpleDb.h"
+
+1665686728 source:d:\codeblocks\studentdatabase\studentdatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Application/Application.h"
+
+1666024744 d:\codeblocks\studentdatabase\studentdatabase\database module\simpledb.h
+
+1666025175 source:d:\codeblocks\studentdatabase\studentdatabase\application\application.c
+	"../DataBase Module/SimpleDb.h"
+	"Application.h"
+	"stdio.h"
+
+1665680925 d:\codeblocks\studentdatabase\studentdatabase\application\application.h
+
